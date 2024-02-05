@@ -1,5 +1,5 @@
  HELLO ALL!!
-      In this repository "CODSOFT" , I have posted all the accomplishments of the tasks given by CodSoft.   https://www.codsoft.in/
+      In this repository "CODSOFT" , I have posted all my accomplishments of the tasks given by CodSoft.   https://www.codsoft.in/
 
 1. TITANIC SURVIVAL PREDICTION : 
    Navigating the Titanic dataset was like setting sail on a data adventure. Building a model to predict the survival of passengers honed my skills in data preprocessing, feature engineering, and algorithmic selection. The voyage taught me the importance of meticulous analysis in extracting meaningful patterns from historical data. 
